@@ -7,4 +7,4 @@ This repository is a collection of notes and resources that I take down along th
 ## Progress Table
 | Chapter | Title | Link |
 | ----------- | ----------- | --------- |
-| 1      | Scaling From Zero Users to Millions of Users | [Notes]() | 
+| 1      | Scaling From Zero Users to Millions of Users | [Notes](https://github.com/allen-tran/learning-system-design/tree/main/01.Scaling%20From%20Zero%20Users%20to%20Miliions%20of%20Users) | 
